@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="FL monogram favicon">
+  <rect x="18" y="18" width="220" height="220" rx="44" fill="#ffffff"/>
+  <rect x="18.5" y="18.5" width="219" height="219" rx="43.5" fill="none" stroke="#111111" stroke-width="7"/>
+  <path d="M56 198h144" fill="none" stroke="#111111" stroke-width="6" stroke-linecap="round" opacity="0.16"/>
+  <text
+    x="128"
+    y="156"
+    text-anchor="middle"
+    fill="#111111"
+    font-family="'Times New Roman', Georgia, serif"
+    font-size="116"
+    font-style="italic"
+    font-weight="700"
+    letter-spacing="-8">FL</text>
+</svg>
